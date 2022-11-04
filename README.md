@@ -26,18 +26,18 @@ Projeto da devweek voltado ao primeiro portifolio feito com a tríade da interne
 
 
 <h2>Acesso ao Projeto;</h2>
-# 📁 Acesso ao projeto**Acesse pelo link: https://dgoldev.github.io/Portifolio-simples/ **
+📁 Acesso ao projeto **Acesse pelo link: https://dgoldev.github.io/Portifolio-simples/ **
 
 <h2>Tecnologias utilizadas;</h2>
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 <h2>Pessoas contribuidoras do projeto</h2>
 <h3>Autores</h3>
-|(https://github.com/devemdobro)  || :---: |
+|(https://github.com/devemdobro)  |
 
 <h2>Pessoas Desenvolvedoras do Projeto;</h2>
 <h3>Autores</h3>
-|(https://github.com/dgoldev) || :---: |
+|(https://github.com/dgoldev) |
 
 <h2>Conclusão</h2>
 
