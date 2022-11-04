@@ -1,4 +1,4 @@
-<h1 align="center"> Portifólio </h1>
+<h1 align="center"> *Portifólio </h1>
 
 <h2>Índice</h2>
 *Título<br>
@@ -14,7 +14,7 @@
 
 
 <h2>Descrição do Projeto</h2>
-Projeto da devweek voltado ao primeiro portifolio feito com a tríade da internet. é um site resposivo com acesso a meu portifolio e minhas redes sociais.
+*Projeto da devweek voltado ao primeiro portifolio feito com a tríade da internet. é um site resposivo com acesso a meu portifolio e minhas redes sociais.
 
 ![Portifolio-readme-img](https://user-images.githubusercontent.com/77650262/200056948-42df0506-ede4-4e07-b04e-84ae5cf9f3b1.png)
 
@@ -40,12 +40,12 @@ Projeto da devweek voltado ao primeiro portifolio feito com a tríade da interne
 |(https://github.com/dgoldev) |
 
 <h2>Conceitos Aplicados no projeto👀</h2>
-HTML semântico
-Flexbox
-Responsividade
-Clean code
-Variaveis
-Classes
+*HTML semântico<br>
+*Flexbox<br>
+*Responsividade<br>
+*Clean code<br>
+*Variaveis<br>
+*Classes<br>
 
 
 
