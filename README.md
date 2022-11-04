@@ -39,7 +39,13 @@ Projeto da devweek voltado ao primeiro portifolio feito com a tríade da interne
 <h3>Autores</h3>
 |(https://github.com/dgoldev) |
 
-<h2>Conclusão</h2>
+<h2>Conceitos Aplicados no projeto👀</h2>
+HTML semântico
+Flexbox
+Responsividade
+Clean code
+Variaveis
+Classes
 
 
 
