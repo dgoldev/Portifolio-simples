@@ -1,4 +1,4 @@
-<h1 align="center"> *Portifólio </h1>
+<h1 align="center"> Portifólio </h1>
 
 <h2>Índice</h2>
 *Título<br>
@@ -23,6 +23,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <h2>Funcionalidades e Demonstração da Aplicação;</h2>
+
 ![Video_221104165117](https://user-images.githubusercontent.com/77650262/200069520-5aa8d5d7-1796-4f8e-abe0-d78ed9e79f1d.gif)
 
 
