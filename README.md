@@ -10,7 +10,7 @@
 *Tecnologias utilizadas<br>
 *Pessoas contribuidoras do projeto<br>
 *Pessoas desenvolvedoras do projeto<br>
-*Conclusão<br>
+*Conceitos aplicados no projeto<br>
 
 
 <h2>Descrição do Projeto</h2>
